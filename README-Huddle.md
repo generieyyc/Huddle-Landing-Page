@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://replit.com/@GenerieBergado/NFT-Preview-Card?v=1)
+- Solution URL: [Add solution URL here](https://github.com/generieyyc/Huddle-Landing-Page.git)
 - Live Site URL: [Add live site URL here](https://nft-preview-card.generiebergado.repl.co/)
 
 ## My process
